@@ -33,3 +33,7 @@ Options:
 - open
 - close
 
+TODO:
+
+- Add ability to have variable height and width
+- Add ability to be visible from different directions
